@@ -38,15 +38,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronSiby15&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronSiby15&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=AaronSiby15&theme=tokyonight" height="150" />
 </p>
 
 ---
