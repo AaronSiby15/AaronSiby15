@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="your-banner-link-here" alt="banner" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Aaron Siby</h1>
 
