@@ -54,7 +54,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronSiby15&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="150" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AaronSiby15&show_icons=true&theme=tokyonight" alt="Aaron's GitHub stats" height="150"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronSiby15&layout=compact&theme=tokyonight" height="150" />
 </p>
 
