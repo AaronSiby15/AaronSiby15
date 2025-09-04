@@ -31,7 +31,7 @@
 
 ## 🌟 Featured Projects  
 
-### 🚖 [TouRide](https://github.com/your-github-username/TouRide)  
+### 🚖 [TouRide](https://github.com/AaronSiby15/TouRide)  
 > A full-stack project enhancing the **tourist travel experience** with seamless ride booking & management.  
 
 - ⚡ Built using **MERN Stack**  
