@@ -51,15 +51,6 @@
 
 ---
 
-### 🚦 [Canadian Driving Rules App](https://github.com/your-github-username/DrivingRulesApp)  
-> An interactive learning platform for tourists coming to Canada to understand Ontario’s driving rules.  
-
-- 🌐 Built with **MERN + React Router + i18next** for localization  
-- 📝 Includes quizzes, modules, and user dashboard  
-- 🎯 Goal: Make learning safe driving in Canada simple and engaging  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -69,10 +60,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AaronSiby15&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronSiby15&theme=tokyo-night"/>
 </p>
 
 ---
