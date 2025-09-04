@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="your-banner-link-here" alt="banner" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Aaron Siby</h1>
 
 <p align="center">
@@ -28,7 +32,7 @@
 
 ---
 
-## 🌟 Featured Project  
+## 🌟 Featured Projects  
 
 ### 🚖 [TouRide](https://github.com/your-github-username/TouRide)  
 > A full-stack project enhancing the **tourist travel experience** with seamless ride booking & management.  
@@ -38,7 +42,25 @@
 
 ---
 
-## 📊 GitHub Stats
+### 🏢 [iGlobal](https://github.com/your-github-username/iGlobal)  
+> A **Java + JavaFX application** for managing administrators, executives, agents, and property records.  
+
+- 📊 Database-driven using **Apache Derby**  
+- 🛠️ Features profile management, user accounts, and property listings  
+- 🔐 Role-based login portals for Admin, Executive, and Agent  
+
+---
+
+### 🚦 [Canadian Driving Rules App](https://github.com/your-github-username/DrivingRulesApp)  
+> An interactive learning platform for tourists coming to Canada to understand Ontario’s driving rules.  
+
+- 🌐 Built with **MERN + React Router + i18next** for localization  
+- 📝 Includes quizzes, modules, and user dashboard  
+- 🎯 Goal: Make learning safe driving in Canada simple and engaging  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaronSiby15&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="150" />
@@ -49,12 +71,18 @@
   <img src="https://streak-stats.demolab.com?user=AaronSiby15&theme=tokyonight" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronSiby15&theme=tokyo-night"/>
+</p>
+
 ---
 
 ## 💡 About Me  
 
 - 🌍 Based in **Canada**  
 - 💻 Passionate about **software engineering, web development, and problem solving**  
+- 📖 Currently learning **Spring Boot** and **advanced React patterns**  
+- 💼 Actively seeking **internships and entry-level software engineering roles**  
 - 🏀 Outside of coding, I enjoy **traveling, playing basketball, and exploring new tech trends**  
 - 🎯 Goal: Contribute to impactful projects that make life easier and more connected  
 
