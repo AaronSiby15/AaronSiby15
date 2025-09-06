@@ -39,7 +39,7 @@
 
 ---
 
-### 🏢 [iGlobal](https://github.com/your-github-username/iGlobal)  
+### 🏢 [iGlobal](https://github.com/AaronSiby15/iGlobal)  
 > A **Java + JavaFX application** for managing administrators, executives, agents, and property records.  
 
 - 📊 Database-driven using **Apache Derby**  
