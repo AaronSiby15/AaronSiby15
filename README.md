@@ -46,21 +46,7 @@
 - 🛠️ Features profile management, user accounts, and property listings  
 - 🔐 Role-based login portals for Admin, Executive, and Agent  
 
----
 
-## 📊 GitHub Stats  
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronSiby15&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AaronSiby15&theme=tokyonight" height="150" />
-</p>
-
----
 
 ## 💡 About Me  
 
